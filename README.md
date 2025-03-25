@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/Rui-cvet/Rui-cvet/blob/main/Copy%20of%20Black%20Blue%20Modern%20Gradient%20Cybersecurity%20Presentation.png">
+<img src="https://github.com/Rui-cvet/Rui-cvet/blob/main/Copy%20of%20Black%20Blue%20Modern%20Gradient%20Cybersecurity%20Presentation.png" alt="Hi there Rui Rosario here!  - DevOps Engineer, Infrastructure">
 
 <!--
 **Rui-cvet/Rui-cvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
