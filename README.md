@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 👨‍💻
 <img src="https://github.com/Rui-cvet/Rui-cvet/blob/main/Black%20Blue%20Modern%20Gradient%20Cybersecurity%20Presentation.png" alt="Hi there Rui Rosario here!  - DevOps Engineer, Infrastructure">
 
 <!--
