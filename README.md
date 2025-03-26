@@ -18,13 +18,13 @@ Proficient in leading cloud and DevOps initiatives, ensuring efficiency, reliabi
 
 
 <!-- Combined GitHub Stats -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rui-cvet&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rui-cvet&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
 
 <!-- Most Used Languages -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rui-cvet&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=synthwave" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rui-cvet&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark" />
 
 <!-- GitHub Streak Stats -->
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rui-cvet&hide_border=true&theme=synthwave" />
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rui-cvet&hide_border=true&theme=dark" />
 
 
 
