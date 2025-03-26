@@ -16,6 +16,19 @@ Proficient in leading cloud and DevOps initiatives, ensuring efficiency, reliabi
 
 
 
+
+<!-- Combined GitHub Stats -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rui-cvet&orgs=Covetrus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+<!-- Combined Most Used Languages -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rui-cvet&orgs=Covetrus&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+<!-- Combined GitHub Streak Stats -->
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rui-cvet&orgs=Covetrus&hide_border=true&background=FFFFFF00&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000&stroke=000000&ring=000000&fire=000000&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+
+
+
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rui-cvet&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 
